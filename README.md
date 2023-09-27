@@ -32,7 +32,7 @@ Localization library for handling translations in [React](https://facebook.githu
 ## Installation
 
 ```
-npm install react-localize-redux --save
+npm install @cognigy-internal/react-localize-redux
 ```
 
 ## Documentation

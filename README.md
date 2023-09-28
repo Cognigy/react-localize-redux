@@ -1,5 +1,5 @@
 Copy of React-localize-redux localization library for handling translations in React for Cognigy usage. 
-Copyright (c) 2016 Ryan Johnson
+
 
 * Does not require [Redux](https://redux.js.org/), but does provide out of the box support for it.
 * Built on React's native [Context](https://reactjs.org/docs/context.html).
@@ -11,8 +11,9 @@ Copyright (c) 2016 Ryan Johnson
 * [Plus more...](https://ryandrewjohnson.github.io/react-localize-redux-docs/#guides)
 
 ## Installation
+For internal Cognigy usage:
 ```
-for internal Cognigy usage: npm install @cognigy-internal/react-localize-redux
+npm install @cognigy-internal/react-localize-redux
 ```
 
 ## Documentation

@@ -104,7 +104,7 @@
   },
   "dependencies": {
     "create-react-context": "0.3.0",
-    "flat": "5.0.1",
+    "flat": "5.0.2",
     "hoist-non-react-statics": "^3.0.1",
     "prop-types": "^15.6.1",
     "reselect": "^3.0.1"

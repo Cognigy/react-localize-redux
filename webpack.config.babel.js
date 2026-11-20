@@ -37,7 +37,7 @@ export default env => {
         { 
           test: /\.js(x?)$/, 
           loaders: [ 'babel-loader' ], 
-          exclude: /node_modules/ 
+          exclude: /node_modules[\\/](?!flat[\\/])/ 
         }
       ])
     },

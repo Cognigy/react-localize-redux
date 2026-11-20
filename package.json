@@ -76,7 +76,7 @@
     "jest": "^22.4.3",
     "json-loader": "^0.5.4",
     "ncp": "^2.0.0",
-    "prettier": "1.12.1",
+    "prettier": "1.19.1",
     "progress-bar-webpack-plugin": "^1.9.1",
     "raf": "^3.3.2",
     "react": "^16.3.1",
